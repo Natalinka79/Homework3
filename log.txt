@@ -1,0 +1,22 @@
+2024-04-02 16:10:32 INFO ====== WebDriver manager ======
+2024-04-02 16:10:34 INFO Get LATEST chromedriver version for google-chrome
+2024-04-02 16:10:34 INFO Get LATEST chromedriver version for google-chrome
+2024-04-02 16:10:35 INFO Driver [C:\Users\CustomerAdmin\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-04-02 16:10:36 INFO Test 1 Starting
+2024-04-02 16:10:37 INFO Send test to element //*[@id="login"]/div[1]/label/input
+2024-04-02 16:10:37 INFO Send test to element //*[@id="login"]/div[2]/label/input
+2024-04-02 16:10:37 INFO Click login button
+2024-04-02 16:10:38 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2024-04-02 16:10:38 INFO Test 2 Starting
+2024-04-02 16:10:38 INFO Send Nika1111@ to element //*[@id="login"]/div[1]/label/input
+2024-04-02 16:10:38 INFO Send 5810230245 to element //*[@id="login"]/div[2]/label/input
+2024-04-02 16:10:38 INFO Click login button
+2024-04-02 16:10:40 INFO We find text Hello, Nika1111@ in error field //*[@id="app"]/main/nav/ul/li[3]/a
+2024-04-02 16:10:40 INFO Test 3 Contact_us Starting
+2024-04-02 16:10:40 INFO Click Contact button
+2024-04-02 16:10:40 INFO Send Natalinka.79 to element //*[@id="contact"]/div[1]/label/input
+2024-04-02 16:10:41 INFO Send Natalinka.79@mail.ru to element //*[@id = "contact"]/div[2]/label/input
+2024-04-02 16:10:41 INFO Send A.S.Pushkin to element //*[@id = "contact"]/div[3]/label/span/textarea
+2024-04-02 16:10:41 INFO Click Contact button
+2024-04-02 16:10:42 INFO Get alert message
+2024-04-02 16:10:42 INFO Alert message is Form successfully submitted
